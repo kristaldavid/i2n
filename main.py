@@ -1,3 +1,7 @@
 
-base = input("alap: ")
-height = ("magasság: ")
+baseStr = input("alap: ")
+heightStr = ("magasság: ")
+
+base = float(baseStr)
+height=float(heightStr)
+
